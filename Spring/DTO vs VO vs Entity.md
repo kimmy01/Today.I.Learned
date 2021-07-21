@@ -4,7 +4,7 @@
 
 **계층 간 데이터 교환을 위해 사용하는 객체**
 
-<img src=".\images\image-20210721230042520.png" alt="image-20210721230042520" style="zoom: 33%;" />
+<img src="https://github.com/kimmy01/Today.I.Learned/blob/main/images/image-20210721230042520.png" style="zoom: 33%;" />
 
 로직 포함 불가능 
 
@@ -160,7 +160,7 @@ public class User {
 
 
 
-<img src=".\images\image-20210721230206570.png" alt="image-20210721230206570" style="zoom:33%;" />
+<img src="https://github.com/kimmy01/Today.I.Learned/blob/main/images/image-20210721230206570.png" style="zoom:33%;" />
 
 
 
