@@ -1,5 +1,6 @@
 package com.example.jwttutorial.service;
 
+import com.example.jwttutorial.entity.User;
 import com.example.jwttutorial.repository.UserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
