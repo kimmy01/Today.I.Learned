@@ -1,4 +1,3 @@
-```
 from urllib.request import urlopen
 from urllib.parse import urlencode, quote_plus, unquote
 import requests
@@ -30,4 +29,3 @@ for i in range (1, 21): #불러 올 페이지 수
 
 conn.commit()
 conn.close()
-```
