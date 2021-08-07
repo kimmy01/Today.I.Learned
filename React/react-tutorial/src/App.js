@@ -1,5 +1,5 @@
 import './App.css';
-import { Component } from 'react';
+import { Component, useDebugValue } from 'react';
 import TOC from "./components/TOC"
 import Content from "./components/Content"
 import Subject from "./components/Subject"
@@ -31,10 +31,17 @@ class App extends Component {
     }
     return (
       <div className="App">
-        <Subject 
+        {/* <Subject 
           title = {this.state.subject.title} 
           sub = {this.state.subject.sub}>
-        </Subject>
+        </Subject> */}
+        <header>
+              <h1><a href="/" onClick={function(e){
+                console.log(e);
+                e.preventDefault();
+              }}>{this.state.subject.title}</a></h1>
+              {this.state.subject.sub.sub}
+        </header>
         <TOC data = {this.state.contents}></TOC>
         <Content 
           title = {_title} 
