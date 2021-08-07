@@ -39,7 +39,12 @@ class App extends Component {
               <h1><a href="/" onClick={function(e){
                 console.log(e);
                 e.preventDefault();
-              }}>{this.state.subject.title}</a></h1>
+                // this.state.mode = "welcome"; 이벤트 내에서는 this에 아무 값도 세팅되어 있지 않음
+                // TypeError: Cannot read property 'state' of undefined
+                this.setState({
+                  mode: "welcome"
+                });
+              }.bind(this)}>{this.state.subject.title}</a></h1>
               {this.state.subject.sub.sub}
         </header>
         <TOC data = {this.state.contents}></TOC>
