@@ -1,5 +1,5 @@
 import './App.css';
-import { Component, useDebugValue } from 'react';
+import { Component } from 'react';
 import TOC from "./components/TOC"
 import Content from "./components/Content"
 import Subject from "./components/Subject"
@@ -31,22 +31,15 @@ class App extends Component {
     }
     return (
       <div className="App">
-        {/* <Subject 
+        <Subject 
           title = {this.state.subject.title} 
-          sub = {this.state.subject.sub}>
-        </Subject> */}
-        <header>
-              <h1><a href="/" onClick={function(e){
-                console.log(e);
-                e.preventDefault();
-                // this.state.mode = "welcome"; 이벤트 내에서는 this에 아무 값도 세팅되어 있지 않음
-                // TypeError: Cannot read property 'state' of undefined
-                this.setState({
-                  mode: "welcome"
-                });
-              }.bind(this)}>{this.state.subject.title}</a></h1>
-              {this.state.subject.sub.sub}
-        </header>
+          sub = {this.state.subject.sub}
+          onChangePage = {function(){
+            alert("hi~!");
+            this.setState({mode:'welcome'});
+          }.bind(this)}  
+        >
+        </Subject>
         <TOC data = {this.state.contents}></TOC>
         <Content 
           title = {_title} 
