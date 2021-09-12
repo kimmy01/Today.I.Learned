@@ -30,7 +30,7 @@ public interface ItemRepository extends JpaRepository<Item, Long> {
 }
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2690813-72da-4e18-bf7f-d66a13e550be/Untitled.png)
+![Untitled](https://github.com/kimmy01/Today.I.Learned/blob/main/images/springdatajpa.png)
 
 ### 공통 인터페이스 기능
 
