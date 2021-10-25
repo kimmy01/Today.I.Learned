@@ -1,6 +1,6 @@
-Stack은 한 쪽 끝에서만 자료를 넣거나 뺄 수 있는 선형 구조로 데이터를 저장하는 형식을 말한다.
+`Stack`은 한 쪽 끝에서만 자료를 넣거나 뺄 수 있는 선형 구조로 데이터를 저장하는 형식을 말한다.
 
-LIFO (Last In First Out)
+`LIFO (Last In First Out)`
 
 ---
 
