@@ -1,27 +1,48 @@
-## Today.I.Learned
+## Computer Science
+### Interview
+|날짜|제목|
+|---|---|
+|2021.08.05|[CS면접질문정리](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/CS%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EC%A0%95%EB%A6%AC.md)|
 
-#### Github Commit Convention
-```
-Summary >>> type : title 형식으로 작성
-Description >>> 본문은 생략 가능
+### DataStructure
+|날짜|제목|
+|---|---|
+|2021.10.25|[Hashtable](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Hashtable.md)|
+|2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Queue.md)|
+|2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Stack.md)|
+|2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/PriorityQueue.md)|
 
-#########################################################  
-types = {  
-	create : 프로젝트 생성 커밋
-	feat : 새로운 기능에 대한 커밋  
-	fix : 버그 수정에 대한 커밋  
-	build : 빌드 관련된 파일 수정에 대한 커밋  
-	chore : 그 외 자잘한 잡다한 것들 수정에 대한 커밋  
-	ci : CI관련 설정 수정에 대한 커밋  
-	docs : 문서 수정에 대한 커밋  
-	style : 코드 스타일 혹은 포맷 등에 관한 커밋  
-	refactor : 코드 리팩토링에 대한 커밋  
-	test : 테스트 코드 수정에 대한 커밋  
-}  
-#########################################################  
-  
-커밋 메시지 입력 예:
-feat : 로그인 기능 구현
-feat : Implementation about Login
-fix : 회원가입 - 페이지 버튼 수정
-```
+### Web
+|날짜|제목|
+|---|---|
+|2021.08.04|[WAS와 WS의 차이](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/WAS%EC%99%80%20WS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|
+
+## Language
+### JavaScript
+|날짜|제목|
+|---|---|
+|2021.08.06|[JavaScript의 객체](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)|
+|2021.08.06|[JavaScript의 수](https://github.com/kimmy01/Today.I.Learned/commits/main/JavaScript/JavaScript%EC%9D%98%20%EC%88%98.md)|
+|2021.08.06|[JavaScript의 문자열과 그 외 타입](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EA%B7%B8%20%EC%99%B8%20%ED%83%80%EC%9E%85.md)|
+|2021.08.06|[JavaScript의 반복문](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)|
+|2021.08.06|[JavaScript의 변수](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B3%80%EC%88%98.md)|
+|2021.08.07|[JavaScript의 함수](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%ED%95%A8%EC%88%98.md)|
+|2021.08.07|[JavaScript의 배열](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B0%B0%EC%97%B4.md)|
+
+### Python
+|날짜|제목|
+|---|---|
+|2021.07.30|[공공데이터 Rest api로 받아와서 mysql에 insert하기](https://github.com/kimmy01/Today.I.Learned/blob/main/Python/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20Rest%20api%EB%A1%9C%20%EB%B0%9B%EC%95%84%EC%99%80%EC%84%9C%20mysql%EC%97%90%20insert%ED%95%98%EA%B8%B0.py)|
+
+### Linux
+|날짜|제목|
+|---|---|
+|2021.07.28|[리눅스 주요 명령어](https://github.com/kimmy01/Today.I.Learned/blob/main/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%A3%BC%EC%9A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)|
+
+## Web
+### Spring
+|날짜|제목|
+|---|---|
+|2021.07.23|[jwt-tutorial](https://github.com/kimmy01/Today.I.Learned/tree/main/Spring/jwt-tutorial)|
+|2021.07.23|[DTO vs VO vs Entity](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/DTO%20vs%20VO%20vs%20Entity.md)|
+|2021.09.21|[Spring Data JPA](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/Spring%20Data%20JPA.md)|
