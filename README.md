@@ -7,7 +7,7 @@
     - [JavaScript](#javascript)
     - [Python](#python)
     - [Linux](#linux)    
-3. [Web](#web)
+3. [Web Programming](#webprogramming)
     - [Spring](#spring)
 
 ## Computer Science
@@ -51,7 +51,7 @@
 |---|---|
 |2021.07.28|[리눅스 주요 명령어](https://github.com/kimmy01/Today.I.Learned/blob/main/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%A3%BC%EC%9A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)|
 
-## Web
+## Web Programming
 ### Spring
 |날짜|제목|
 |---|---|
