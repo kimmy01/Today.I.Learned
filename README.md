@@ -9,6 +9,8 @@
     - [Linux](#linux)    
 3. [Web Programming](#web-programming)
     - [Spring](#spring)
+4. [Algorithm](#algorithm)
+    - [BitMasking](#bitmasking)
 
 ## Computer Science
 ### Interview
@@ -58,3 +60,9 @@
 |2021.07.23|[jwt-tutorial](https://github.com/kimmy01/Today.I.Learned/tree/main/Spring/jwt-tutorial)|
 |2021.07.23|[DTO vs VO vs Entity](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/DTO%20vs%20VO%20vs%20Entity.md)|
 |2021.09.21|[Spring Data JPA](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/Spring%20Data%20JPA.md)|
+
+## Algorithm
+### Bitmasking
+|날짜|제목|
+|---|---|
+|2021.12.03|[비트마스킹](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/BitMasking.md)|
