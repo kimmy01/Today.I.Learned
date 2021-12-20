@@ -38,6 +38,7 @@
 |2021.12.20|[데이터베이스 개체](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EC%B2%B4.md)|
 |2021.12.20|[SQL 문법](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/SQL%20%EB%AC%B8%EB%B2%95.md)|
 |2021.12.20|[JOIN](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/JOIN.md)|
+|2021.12.20|[Index](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/Index.md)|
 
 ## Language
 ### JavaScript
