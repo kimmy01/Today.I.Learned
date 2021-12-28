@@ -12,6 +12,7 @@
     - [Spring](#spring)
 4. [Algorithm](#algorithm)
     - [BitMasking](#bitmasking)
+    - [Knapsack](#knapsack)
 
 ## Computer Science
 ### Interview
@@ -75,3 +76,4 @@
 |날짜|제목|
 |---|---|
 |2021.12.03|[비트마스킹](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/BitMasking.md)|
+|2021.12.28|[배낭문제](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Knapsack.md)|
