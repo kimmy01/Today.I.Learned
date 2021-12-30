@@ -51,6 +51,7 @@
 |2021.12.30|[인터럽트](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
 |2021.12.30|[SystemCall](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/System%20Call.md)|
 |2021.12.30|[PCB & Context Switching](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/PCB%20%26%20Context%20Switching.md)|
+|2021.12.30|[IPC](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/IPC.md)|
 
 ## Language
 ### JavaScript
