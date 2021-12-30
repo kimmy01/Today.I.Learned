@@ -4,6 +4,7 @@
     - [DataStructure](#datastructure)
     - [Web](#web)
     - [Database](#database)
+    - [OperatingSystem](#operatingsystem)
 2. [Language](#language)
     - [JavaScript](#javascript)
     - [Python](#python)
@@ -40,6 +41,11 @@
 |2021.12.20|[SQL 문법](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/SQL%20%EB%AC%B8%EB%B2%95.md)|
 |2021.12.20|[JOIN](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/JOIN.md)|
 |2021.12.20|[Index](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/Index.md)|
+
+### OperatingSystem
+|날짜|제목|
+|---|---|
+|2021.12.30|[운영체제](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
 
 ## Language
 ### JavaScript
