@@ -49,6 +49,7 @@
 |2021.12.30|[프로세스와 스레드](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |2021.12.30|[프로세스 주소](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)|
 |2021.12.30|[인터럽트](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
+|2021.12.30|[SystemCall](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/System%20Call.md)|
 
 ## Language
 ### JavaScript
