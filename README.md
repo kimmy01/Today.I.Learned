@@ -53,6 +53,7 @@
 |2021.12.30|[PCB & Context Switching](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/PCB%20%26%20Context%20Switching.md)|
 |2021.12.30|[IPC](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/IPC.md)|
 |2021.12.30|[CPU스케줄링](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
+|2021.12.31|[DeadLock](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/DeadLock.md)|
 
 ## Language
 ### JavaScript
