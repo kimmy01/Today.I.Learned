@@ -56,6 +56,7 @@
 |2021.12.31|[DeadLock](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/DeadLock.md)|
 |2021.12.31|[RaceCondition](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/RaceCondition.md)|
 |2021.12.31|[Semaphore & Mutex](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Semaphore%20%26%20Mutex.md)|
+|2021.12.31|[Paging & Segmentation](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Paging%20%26%20Segmentation.md)|
 
 ## Language
 ### JavaScript
