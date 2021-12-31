@@ -55,6 +55,7 @@
 |2021.12.30|[CPU스케줄링](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
 |2021.12.31|[DeadLock](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/DeadLock.md)|
 |2021.12.31|[RaceCondition](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/RaceCondition.md)|
+|2021.12.31|[Semaphore & Mutex](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Semaphore%20%26%20Mutex.md)|
 
 ## Language
 ### JavaScript
