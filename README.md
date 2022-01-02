@@ -58,6 +58,7 @@
 |2021.12.31|[Semaphore & Mutex](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Semaphore%20%26%20Mutex.md)|
 |2021.12.31|[Paging & Segmentation](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Paging%20%26%20Segmentation.md)|
 |2022.01.01|[페이지 교체 알고리즘](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)|
+|2022.01.02|[MainMemory](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/MainMemory.md)|
 
 ## Language
 ### JavaScript
