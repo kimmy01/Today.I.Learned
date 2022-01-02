@@ -60,6 +60,7 @@
 |2022.01.01|[페이지 교체 알고리즘](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)|
 |2022.01.02|[MainMemory](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/MainMemory.md)|
 |2022.01.02|[Cache Memory](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Cache%20Memory.md)|
+|2022.01.02|[File System](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/File%20System.md)|
 
 ## Language
 ### JavaScript
