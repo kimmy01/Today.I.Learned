@@ -24,10 +24,10 @@
 ### DataStructure
 |날짜|제목|
 |---|---|
-|2021.10.25|[Hashtable](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Hashtable.md)|
-|2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Queue.md)|
-|2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/Stack.md)|
-|2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/DataStructure/PriorityQueue.md)|
+|2021.10.25|[Hashtable](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Hashtable.md)|
+|2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Queue.md)|
+|2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Stack.md)|
+|2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/PriorityQueue.md)|
 
 ### Web
 |날짜|제목|
