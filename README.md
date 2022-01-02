@@ -66,23 +66,23 @@
 ### JavaScript
 |날짜|제목|
 |---|---|
-|2021.08.06|[JavaScript의 객체](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)|
-|2021.08.06|[JavaScript의 수](https://github.com/kimmy01/Today.I.Learned/commits/main/JavaScript/JavaScript%EC%9D%98%20%EC%88%98.md)|
-|2021.08.06|[JavaScript의 문자열과 그 외 타입](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EA%B7%B8%20%EC%99%B8%20%ED%83%80%EC%9E%85.md)|
-|2021.08.06|[JavaScript의 반복문](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)|
-|2021.08.06|[JavaScript의 변수](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B3%80%EC%88%98.md)|
-|2021.08.07|[JavaScript의 함수](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%ED%95%A8%EC%88%98.md)|
-|2021.08.07|[JavaScript의 배열](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/JavaScript%EC%9D%98%20%EB%B0%B0%EC%97%B4.md)|
+|2021.08.06|[JavaScript의 객체](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/JavaScript/JavaScript%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)|
+|2021.08.06|[JavaScript의 수](https://github.com/kimmy01/Today.I.Learned/commits/main/Language/JavaScript/JavaScript%EC%9D%98%20%EC%88%98.md)|
+|2021.08.06|[JavaScript의 문자열과 그 외 타입](https://github.com/kimmy01/Today.I.Learned/blob/main/JavaScript/Language/JavaScript%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EA%B7%B8%20%EC%99%B8%20%ED%83%80%EC%9E%85.md)|
+|2021.08.06|[JavaScript의 반복문](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/JavaScript/JavaScript%EC%9D%98%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)|
+|2021.08.06|[JavaScript의 변수](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/JavaScript/JavaScript%EC%9D%98%20%EB%B3%80%EC%88%98.md)|
+|2021.08.07|[JavaScript의 함수](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/JavaScript/JavaScript%EC%9D%98%20%ED%95%A8%EC%88%98.md)|
+|2021.08.07|[JavaScript의 배열](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/JavaScript/JavaScript%EC%9D%98%20%EB%B0%B0%EC%97%B4.md)|
 
 ### Python
 |날짜|제목|
 |---|---|
-|2021.07.30|[공공데이터 Rest api로 받아와서 mysql에 insert하기](https://github.com/kimmy01/Today.I.Learned/blob/main/Python/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20Rest%20api%EB%A1%9C%20%EB%B0%9B%EC%95%84%EC%99%80%EC%84%9C%20mysql%EC%97%90%20insert%ED%95%98%EA%B8%B0.py)|
+|2021.07.30|[공공데이터 Rest api로 받아와서 mysql에 insert하기](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Python/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20Rest%20api%EB%A1%9C%20%EB%B0%9B%EC%95%84%EC%99%80%EC%84%9C%20mysql%EC%97%90%20insert%ED%95%98%EA%B8%B0.py)|
 
 ### Linux
 |날짜|제목|
 |---|---|
-|2021.07.28|[리눅스 주요 명령어](https://github.com/kimmy01/Today.I.Learned/blob/main/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%A3%BC%EC%9A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)|
+|2021.07.28|[리눅스 주요 명령어](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%A3%BC%EC%9A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)|
 
 ## Web Programming
 ### Spring
