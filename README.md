@@ -32,7 +32,7 @@
 ### Web
 |날짜|제목|
 |---|---|
-|2021.08.04|[WAS와 WS의 차이](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/WAS%EC%99%80%20WS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|
+|2021.08.04|[WAS와 WS의 차이](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Web/WAS%EC%99%80%20WS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|
 
 ### Database
 |날짜|제목|
@@ -88,9 +88,9 @@
 ### Spring
 |날짜|제목|
 |---|---|
-|2021.07.23|[jwt-tutorial](https://github.com/kimmy01/Today.I.Learned/tree/main/Spring/jwt-tutorial)|
-|2021.07.23|[DTO vs VO vs Entity](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/DTO%20vs%20VO%20vs%20Entity.md)|
-|2021.09.21|[Spring Data JPA](https://github.com/kimmy01/Today.I.Learned/blob/main/Spring/Spring%20Data%20JPA.md)|
+|2021.07.23|[jwt-tutorial](https://github.com/kimmy01/Today.I.Learned/tree/main/Web/Spring/jwt-tutorial)|
+|2021.07.23|[DTO vs VO vs Entity](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/Spring/DTO%20vs%20VO%20vs%20Entity.md)|
+|2021.09.21|[Spring Data JPA](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/Spring/Spring%20Data%20JPA.md)|
 
 ## Algorithm
 ### Bitmasking
