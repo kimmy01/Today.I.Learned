@@ -19,48 +19,48 @@
 ### Interview
 |날짜|제목|
 |---|---|
-|2021.08.05|[CS면접질문정리](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/CS%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EC%A0%95%EB%A6%AC.md)|
+|2021.08.05|[CS면접질문정리](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/CS%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EC%A0%95%EB%A6%AC.md)|
 
 ### DataStructure
 |날짜|제목|
 |---|---|
-|2021.10.25|[Hashtable](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Hashtable.md)|
-|2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Queue.md)|
-|2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/Stack.md)|
-|2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/DataStructure/PriorityQueue.md)|
+|2021.10.25|[Hashtable](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/Hashtable.md)|
+|2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/Queue.md)|
+|2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/Stack.md)|
+|2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/PriorityQueue.md)|
 
 ### Web
 |날짜|제목|
 |---|---|
-|2021.08.04|[WAS와 WS의 차이](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Web/WAS%EC%99%80%20WS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|
+|2021.08.04|[WAS와 WS의 차이](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Web/WAS%EC%99%80%20WS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|
 
 ### Database
 |날짜|제목|
 |---|---|
-|2021.12.20|[데이터베이스 개체](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EC%B2%B4.md)|
-|2021.12.20|[SQL 문법](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/SQL%20%EB%AC%B8%EB%B2%95.md)|
-|2021.12.20|[JOIN](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/JOIN.md)|
-|2021.12.20|[Index](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/Database/Index.md)|
+|2021.12.20|[데이터베이스 개체](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EC%B2%B4.md)|
+|2021.12.20|[SQL 문법](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/SQL%20%EB%AC%B8%EB%B2%95.md)|
+|2021.12.20|[JOIN](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/JOIN.md)|
+|2021.12.20|[Index](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/Index.md)|
 
 ### OperatingSystem
 |날짜|제목|
 |---|---|
-|2021.12.30|[운영체제](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
-|2021.12.30|[프로세스와 스레드](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
-|2021.12.30|[프로세스 주소](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)|
-|2021.12.30|[인터럽트](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
-|2021.12.30|[SystemCall](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/System%20Call.md)|
-|2021.12.30|[PCB & Context Switching](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/PCB%20%26%20Context%20Switching.md)|
-|2021.12.30|[IPC](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/IPC.md)|
-|2021.12.30|[CPU스케줄링](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
-|2021.12.31|[DeadLock](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/DeadLock.md)|
-|2021.12.31|[RaceCondition](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/RaceCondition.md)|
-|2021.12.31|[Semaphore & Mutex](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Semaphore%20%26%20Mutex.md)|
-|2021.12.31|[Paging & Segmentation](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Paging%20%26%20Segmentation.md)|
-|2022.01.01|[페이지 교체 알고리즘](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)|
-|2022.01.02|[MainMemory](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/MainMemory.md)|
-|2022.01.02|[Cache Memory](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/Cache%20Memory.md)|
-|2022.01.02|[File System](https://github.com/kimmy01/Today.I.Learned/blob/main/CS/OS/File%20System.md)|
+|2021.12.30|[운영체제](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
+|2021.12.30|[프로세스와 스레드](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
+|2021.12.30|[프로세스 주소](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)|
+|2021.12.30|[인터럽트](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
+|2021.12.30|[SystemCall](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/System%20Call.md)|
+|2021.12.30|[PCB & Context Switching](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/PCB%20%26%20Context%20Switching.md)|
+|2021.12.30|[IPC](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/IPC.md)|
+|2021.12.30|[CPU스케줄링](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
+|2021.12.31|[DeadLock](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/DeadLock.md)|
+|2021.12.31|[RaceCondition](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/RaceCondition.md)|
+|2021.12.31|[Semaphore & Mutex](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/Semaphore%20%26%20Mutex.md)|
+|2021.12.31|[Paging & Segmentation](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/Paging%20%26%20Segmentation.md)|
+|2022.01.01|[페이지 교체 알고리즘](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)|
+|2022.01.02|[MainMemory](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/MainMemory.md)|
+|2022.01.02|[Cache Memory](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/Cache%20Memory.md)|
+|2022.01.02|[File System](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/File%20System.md)|
 
 ## Language
 ### JavaScript
