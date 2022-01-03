@@ -6,6 +6,7 @@
     - [Database](#database)
     - [OperatingSystem](#operatingsystem)
 2. [Language](#language)
+    - [Java](#java)
     - [JavaScript](#javascript)
     - [Python](#python)
     - [Linux](#linux)    
@@ -65,6 +66,11 @@
 |2022.01.02|[File System](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/OS/File%20System.md)|
 
 ## Language
+### Java
+|날짜|제목|
+|---|---|
+|2022.01.03|[Generic](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Java/Generic.md)|
+
 ### JavaScript
 |날짜|제목|
 |---|---|
