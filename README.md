@@ -28,6 +28,7 @@
 |2021.10.25|[Queue](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/Queue.md)|
 |2021.10.25|[Stack](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/Stack.md)|
 |2021.10.28|[PriorityQueue](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/DataStructure/PriorityQueue.md)|
+|2022.01.03|[Array & ArrayList && LinkedList](https://github.com/kimmy01/Today.I.Learned/tree/main/ComputerScience/DataStructure)|
 
 ### Web
 |날짜|제목|
