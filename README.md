@@ -16,6 +16,7 @@
     - [BitMasking](#bitmasking)
     - [Knapsack](#knapsack)
     - [Dijkstra](#dijkstra)
+    - [Sort](#sort)
 
 ## Computer Science
 ### Interview
@@ -116,3 +117,13 @@
 |날짜|제목|
 |---|---|
 |2022.01.03|[다익스트라](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Dijkstra.md)|
+
+### Sort
+|날짜|제목|
+|---|---|
+|2022.01.07|[SelectionSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/SelectionSort.md)|
+|2022.01.07|[InsertionSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/InsertionSort.md)|
+|2022.01.07|[BubbleSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/BubbleSort.md)|
+|2022.01.07|[MergeSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/MergeSort.md)|
+|2022.01.07|[QuickSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/QuickSort.md)|
+|2022.01.07|[HeapSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/HeapSort.md)|
