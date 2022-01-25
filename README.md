@@ -17,6 +17,7 @@
     - [Knapsack](#knapsack)
     - [Dijkstra](#dijkstra)
     - [Sort](#sort)
+    - [LIS](#lis)
 
 ## Computer Science
 ### Interview
@@ -127,3 +128,8 @@
 |2022.01.07|[MergeSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/MergeSort.md)|
 |2022.01.07|[QuickSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/QuickSort.md)|
 |2022.01.07|[HeapSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/HeapSort.md)|
+
+### LIS
+|날짜|제목|
+|---|---|
+|2022.01.25|[LIS](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/LIS.md)|
