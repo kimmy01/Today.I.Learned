@@ -47,6 +47,7 @@
 |2021.12.20|[SQL 문법](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/SQL%20%EB%AC%B8%EB%B2%95.md)|
 |2021.12.20|[JOIN](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/JOIN.md)|
 |2021.12.20|[Index](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/Index.md)|
+|2022.01.26|[Redis와 Cache](https://github.com/kimmy01/Today.I.Learned/blob/main/ComputerScience/Database/Redis%EC%99%80%20Cache.md)|
 
 ### OperatingSystem
 |날짜|제목|
