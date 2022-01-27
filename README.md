@@ -75,6 +75,7 @@
 |날짜|제목|
 |---|---|
 |2022.01.03|[Generic](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Java/Generic.md)|
+|2022.01.27|[Call By Value](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Java/Call%20By%20Value.md)|
 
 ### JavaScript
 |날짜|제목|
