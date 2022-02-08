@@ -132,6 +132,7 @@
 |2022.01.07|[MergeSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/MergeSort.md)|
 |2022.01.07|[QuickSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/QuickSort.md)|
 |2022.01.07|[HeapSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/HeapSort.md)|
+|2022.02.08|[CountingSort](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Sort/CountingSort.md)|
 
 ### LIS
 |날짜|제목|
