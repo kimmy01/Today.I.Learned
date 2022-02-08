@@ -19,6 +19,7 @@
     - [Sort](#sort)
     - [LIS](#lis)
     - [FloydWarshall](#floydwarshall)
+    - [MST](#mst)
 
 ## Computer Science
 ### Interview
@@ -141,3 +142,8 @@
 |날짜|제목|
 |---|---|
 |2022.01.26|[FloydWarshall](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/Floyd-warshall.md)|
+
+### MST
+|날짜|제목|
+|---|---|
+|2022.02.08|[MST](https://github.com/kimmy01/Today.I.Learned/blob/main/Algorithm/MST.md)|
