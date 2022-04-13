@@ -10,6 +10,7 @@
     - [JavaScript](#javascript)
     - [Python](#python)
     - [Linux](#linux)    
+    - [Go](#go)
 3. [Web Programming](#web-programming)
     - [Spring](#spring)
 4. [Algorithm](#algorithm)
@@ -105,6 +106,8 @@
 |날짜|제목|
 |---|---|
 |2022.04.13|[Go특징](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go.md)|
+|2022.04.13|[Go변수&상수(https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20변수와%20상수.md)|
+|2022.04.13|[Go의 자료형](https://github.com/kimmy01/Today.I.Learned/tree/main/Language/Go/Go의%자료형.md)|
 
 ## Web Programming
 ### Spring
