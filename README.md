@@ -107,7 +107,17 @@
 |---|---|
 |2022.04.13|[Go특징](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go.md)|
 |2022.04.13|[Go변수&상수](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20변수와%20상수.md)|
-|2022.04.13|[Go의 자료형](https://github.com/kimmy01/Today.I.Learned/tree/main/Language/Go/Go의%자료형.md)|
+|2022.04.13|[Go의 자료형](https://github.com/kimmy01/Today.I.Learned/tree/main/Language/Go/Go의%20자료형.md)|
+|2022.04.13|[Go의 연산자](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20연산자.md)|
+|2022.04.13|[Go의 조건문](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20조건문.md)|
+|2022.04.13|[Go의 반복문](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20반복문.md)|
+|2022.04.13|[Go의 익명함수](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20익명함수.md)|
+|2022.04.13|[Go의 클로저](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20클로저.md)|
+|2022.04.13|[Go의 컬렉션](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20컬렉션.md)|
+|2022.04.13|[Go의 패키지](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20패키지.md)|
+|2022.04.13|[Go의 구조체](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20구조체.md)|
+|2022.04.13|[Go의 메소드](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20메소드.md)|
+|2022.04.13|[Go의 인터페이스](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go의%20인터페이스.md)|
 
 ## Web Programming
 ### Spring
