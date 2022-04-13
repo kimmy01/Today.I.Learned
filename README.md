@@ -101,6 +101,11 @@
 |---|---|
 |2021.07.28|[리눅스 주요 명령어](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%A3%BC%EC%9A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)|
 
+### Go
+|날짜|제목|
+|---|---|
+|2022.04.13|[Go특징](https://github.com/kimmy01/Today.I.Learned/blob/main/Language/Go/Go.md)|
+
 ## Web Programming
 ### Spring
 |날짜|제목|
