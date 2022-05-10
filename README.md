@@ -184,3 +184,4 @@
 |날짜|제목|
 |---|---|
 |2022.05.10|[Kafka기본개념](https://github.com/kimmy01/Today.I.Learned/blob/main/Kafka/Kafka%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)|
+|2022.05.10|[메시지브로커와 이벤트브로커](https://github.com/kimmy01/Today.I.Learned/blob/main/Kafka/%EB%A9%94%EC%8B%9C%EC%A7%80%EB%B8%8C%EB%A1%9C%EC%BB%A4%EC%99%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%B8%8C%EB%A1%9C%EC%BB%A4.md)|
