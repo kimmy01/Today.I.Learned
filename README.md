@@ -127,6 +127,7 @@
 |2021.07.23|[jwt-tutorial](https://github.com/kimmy01/Today.I.Learned/tree/main/Web/Spring/jwt-tutorial)|
 |2021.07.23|[DTO vs VO vs Entity](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/Spring/DTO%20vs%20VO%20vs%20Entity.md)|
 |2021.09.21|[Spring Data JPA](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/Spring/Spring%20Data%20JPA.md)|
+|2022.05.12|[DirtyChecking](https://github.com/kimmy01/Today.I.Learned/blob/main/Web/Spring/DirtyChecking.md)|
 
 ## Algorithm
 ### Bitmasking
